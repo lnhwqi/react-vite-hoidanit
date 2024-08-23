@@ -1,7 +1,12 @@
+import "./style.css";
+
 const SecondComponet = () => {
   return (
     <>
-      <div>Second Component</div>
+      <div className="university" style={{ color: "blue" }}>
+        HCMIU
+      </div>
+      <div className="sid">ITITIU21056</div>
     </>
   );
 };

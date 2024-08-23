@@ -1,0 +1,10 @@
+.university{
+    color: red;
+    font-weight: 700;
+    font-style: italic;
+    text-transform: lowercase;
+}
+
+.sid{
+    font-style: italic;
+}
